@@ -9,7 +9,7 @@ sudo apt install xorg-dev #libxmu-headers
 ```
 git clone https://github.com/luvres/graphics.git
 
-cd graphics/calculix-2.11/
+pushd graphics/calculix-2.11/
 ```
 ##### And will install in ~/CalculiX. The installation is started with
 ```
