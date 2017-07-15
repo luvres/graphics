@@ -45,7 +45,7 @@ cd MT/src
 make > ../../../spoolesMT_make.txt 2> ../../../spoolesMT_error.txt
 cp spoolesMT.a $PROGSDIR/lib
 cd ..
-mkdir $PROGSDIR/include/spooles/MT
+#mkdir $PROGSDIR/include/spooles/MT
 cp spoolesMT.h $PROGSDIR/include/spooles/MT
 cd ../..
 rm SPOOLES.2.2 -Rf
