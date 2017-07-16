@@ -3,7 +3,7 @@
 -----
 ##### Necessary to install packages for Ubuntu:
 ```
-sudo apt install xorg-dev #libxmu-headers
+sudo apt install gfortran xorg-dev #libxmu-headers
 ```
 ##### The script can be run anywhere after downloading:
 ```
