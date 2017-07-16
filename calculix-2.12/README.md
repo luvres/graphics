@@ -15,3 +15,8 @@ pushd graphics/calculix-2.12/
 ```
 ./install
 ```
+```
+sudo mv /usr/bin/ccx /usr/bin/ccx_`ccx -version | grep 'is' | awk '{print $4}'`
+sudo cp $HOME/CalculiX-2.12/bin/ccx_2.12 /usr/bin/ccx
+sudo cp $HOME/CalculiX-2.12/bin/cgx /usr/bin/cgx
+```
