@@ -1,0 +1,3 @@
+/home/luvres/1uvr3z/sample/CMakeFiles/rebuild_cache.dir
+/home/luvres/1uvr3z/sample/CMakeFiles/sample.dir
+/home/luvres/1uvr3z/sample/CMakeFiles/edit_cache.dir
